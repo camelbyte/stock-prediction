@@ -9,7 +9,7 @@
  <li> <ul>AlphaVantage</ul></li>
 </li>
 
-## A candlestick chart
+## Canlestick Chart
 ![image](https://github.com/user-attachments/assets/60d94e86-9c39-4537-b301-0c06178398e9)
 
 ## Line Chart
