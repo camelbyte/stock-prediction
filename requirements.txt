@@ -17,3 +17,5 @@ typing_extensions==4.12.2
 tzdata==2025.1
 urllib3==2.3.0
 yfinance==0.2.54
+matplotlib~=3.10.1
+seaborn~=0.13.2
