@@ -1,6 +1,7 @@
-<h1>Stock Market Analysis with Python</h1>
+<h1> 📈 Stock Market Analysis 📊 with Python</h1>
 
-### Sentiment analysis, price prediction, indicators, decision trees etc.
+### <em>Sentiment analysis, price prediction, indicators, decision trees etc. </em>
+# Using free tier APIs ⤵️
 
 <li>
   <ul>Polygon.io</ul>
