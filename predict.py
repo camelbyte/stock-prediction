@@ -4,10 +4,6 @@ import numpy as np
 import seaborn as sns
 import os
 from datetime import datetime
-import warnings
-
-
-warnings.filterwarnings("ignore")
 
 
 df = pd.read_csv('data/aapl_stock_prices.csv', delimiter=',')
