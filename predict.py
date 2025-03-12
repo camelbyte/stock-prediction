@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 
-df = pd.read_csv('data/aapl_stock_prices.csv', delimiter=',')
+df = pd.read_csv('charting/aapl_stock_prices.csv', delimiter=',')
 
 print(df.sample(5))
 print(df.columns)
